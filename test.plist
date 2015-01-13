@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.easemob.enterprise.demo.ui</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
