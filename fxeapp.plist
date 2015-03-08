@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fangxiaoer.xiaoerbao</string>
+				<string>com.fangxiaoer.fangxiaoer</string>
 				<key>bundle-version</key>
-				<string>2.0.8</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>测试demo</string>
+				<string> 房小二</string>
 			</dict>
 		</dict>
 	</array>
